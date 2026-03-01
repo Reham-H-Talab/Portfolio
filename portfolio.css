@@ -490,7 +490,7 @@ span{
     overflow: hidden;
     min-height: 100vh;
 }
-}
+
     ul.collapse.show {
         display: flex !important;
         flex-direction: column;
