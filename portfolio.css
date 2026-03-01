@@ -479,7 +479,11 @@ span{
     ul.collapse:not(.show) {
         display: none !important;
     }
-
+    
+    .portfolio {
+    padding-top: 0px;
+    }
+}
     ul.collapse.show {
         display: flex !important;
         flex-direction: column;
@@ -544,6 +548,6 @@ span{
         padding: 20px;
     }
     .portfolio {
-    padding-top: 35px;
+    padding-top: 0px;
     }
 }
