@@ -483,6 +483,13 @@ span{
     .portfolio {
     padding-top: 0px;
     }
+    section {
+    background: #1a1a1a;
+    padding: 50px 0;
+    color: white;
+    overflow: hidden;
+    min-height: 100vh;
+}
 }
     ul.collapse.show {
         display: flex !important;
